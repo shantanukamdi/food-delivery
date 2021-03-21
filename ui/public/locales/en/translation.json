@@ -1,0 +1,12 @@
+{
+  "pages": {
+    "landing": {
+      "header": "Order from top & favourite restaurants",
+      "subheader": "Ready to see top restaurants to order?"
+    }
+  },
+  "buttons": {
+    "register": "Register",
+    "login": "Login"
+  }
+}
